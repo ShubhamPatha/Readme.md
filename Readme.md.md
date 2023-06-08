@@ -1,82 +1,42 @@
 <!-- Headings -->   
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6
-<!-- Italics -->
-*This text* is italic
-
-_This text_ is italic
-
-<!-- Strong -->
-**This text** is italic
-
-_This text_ is italic
-
-<!-- Strikethrough -->
-~~This text~~ is strikethrough 
-
-<!-- Horizontal Rule -->
-
---- 
-_______
-
-<!-- Blockquote -->
-> This is a quote
-
-<!-- Links -->
-[Geekster]( www.geekster.com)
-<!-- UL -->
-* Item 1
-* Item 2
-  
-  *Nested Item 1
-
-<!-- OL -->
-1. Item 1
-1. Item 2
-1. Item 3
-
-<!-- Inline Code Block -->
-<p> This is a paragraph</p>
-
-<!-- Images -->
-
-![Markdown Logo]
-(https://markdown-here.com/img/icon256.png)
-
-<!-- Github Markdown -->
+# Prerequisites
+* npm >=5.50
+* node >=9.30
+<!-- Headings -->   
+# Install
 <!-- Code Blocks -->
 ``` 
   npm install 
-
-  npm start
 ```
 
-```javascript
-function add(num1, num2)
-{
-    return num1+num2;
-
-}
+<!-- Headings -->   
+# Usage
+<!-- Code Blocks -->
+``` 
+  npm run start
 ```
-```python
-def add(num1, num2)
-{
-    return num1+num2;
-
-}
+<!-- Headings -->   
+# Run tests
+<!-- Code Blocks -->
+``` 
+  npm run test
 ```
-<!-- Tables -->
-| Name       | Email                       |
-|-----------| -----------|
-| Shubham    |Shubhampathak1350@icloud.com |
-| Shubam     | Shubhampathak1350@gmail.com |
+
+<!-- Headings -->   
+# Author
+<!-- Images -->
+
+![Markdown Logo]
+(https://upload.wikimedia.org/wikipedia/commons/9/93/Google_Contacts_icon.svg)
+Shubham Pathak
+ <!-- UL -->
+* Twitter <!-- Links -->
+[@ShubhamPathak]( https://github.com/ShubhamPatha)
+* Github  <!-- Links -->
+[@ShubhamPathak]( https://github.com/ShubhamPatha)
+<!-- Headings -->   
+# Contributing
+Contributions, issues an features request are welcome!
+Feel free  to check issues page.
 
 
-<!-- Task Lists -->
-* [x] Task 1
-* [x] Task 2
-* [   ] Task 3
