@@ -8,8 +8,9 @@
 ## DATA FLOW
 
 <!-- Code Blocks -->
-``` 
+
   ### CONFIGURATION
+  ``` 
 package com.geekster.UserManagement.configuration;
 
 
