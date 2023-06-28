@@ -1,12 +1,41 @@
 
-# Prerequisites
-* npm >=5.50
-* node >=9.30
+# USER MANAGEMENT SYSTEM
+## FRAMEWORK AND LANGUAGE USED
+* JAVA 17
+* MAVEN
+* SPRINGBOOT 3.1.1
 <!-- Headings -->   
-# Install
+## DATA FLOW
+
 <!-- Code Blocks -->
 ``` 
-  npm install 
+  ### CONFIGURATION
+package com.geekster.UserManagement.configuration;
+
+
+
+import com.geekster.UserManagement.model.User;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
+
+import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.List;
+
+@Configuration
+class BeanManager {
+
+    @Bean
+    public List<User> getInitializedList()
+    {
+        User initUser=new User(1,"Shubh",LocalDate.of(1996,12,12),"shubh@geekster.com","917042020639",LocalDate.of(2023,06,28),"09:40");
+
+        List<User> initList = new ArrayList<>();
+        initList.add(initUser);
+
+        return initList;
+    }
+}
 ```
 
 <!-- Headings -->   
