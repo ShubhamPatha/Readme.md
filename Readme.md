@@ -360,21 +360,23 @@ public class UserManagementApplication {
 * INTEGER
 * USER
 
-## PROJECT SUMMARY
-####USER MANAGEMENT SYSTEM Has been created with the following attribute
-*UserId
-*username
-*DateOfBirth
-*email
-*Phone Number
-*Date 
-*Time
-###endpoint to be provided 
-*addUser 
-*getUser/{userid}
-*getAllUser
-*updateUserInfo
-*deleteUser
+# PROJECT SUMMARY
+
+## USER MANAGEMENT SYSTEM Has been created with the following attribute
+
+* UserId
+* username
+* DateOfBirth
+* Email
+* Phone Number
+* Date 
+* Time
+### Endpoint to be provided 
+* AddUser 
+* getUser/{userid}
+* getAllUser
+* updateUserInfo
+* deleteUser
 
 
 
