@@ -353,6 +353,29 @@ public class UserManagementApplication {
 
 </project>
 ```
+## DATA STRUCTURE USED
+* LIST 
+* STRING
+* LOCAL DATE
+* INTEGER
+* USER
+
+## PROJECT SUMMARY
+####USER MANAGEMENT SYSTEM Has been created with the following attribute
+*UserId
+*username
+*DateOfBirth
+*email
+*Phone Number
+*Date 
+*Time
+###endpoint to be provided 
+*addUser 
+*getUser/{userid}
+*getAllUser
+*updateUserInfo
+*deleteUser
+
 
 
 
@@ -370,8 +393,3 @@ SHUBHAM PATHAK
 * Github  <!-- Links -->
 [@ShubhamPathak]( https://github.com/ShubhamPatha)
 <!-- Headings -->   
-# Contributing
-Contributions, issues an features request are welcome!
-Feel free  to check issues page.
-
-
