@@ -1,4 +1,4 @@
-<!-- Headings -->   
+
 # Prerequisites
 * npm >=5.50
 * node >=9.30
