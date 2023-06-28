@@ -295,12 +295,7 @@ public class UserManagementApplication {
 
 
 
-<!-- Headings -->   
-# Run tests
-<!-- Code Blocks -->
-``` 
-  npm run test
-```
+
 
 <!-- Headings -->   
 # Author
