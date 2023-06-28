@@ -366,7 +366,7 @@ public class UserManagementApplication {
 SHUBHAM PATHAK
  <!-- UL -->
 * Twitter <!-- Links -->
-[@ShubhamPathak]( [https://github.com/ShubhamPatha](https://twitter.com/Shubham15022000))
+[@ShubhamPathak]( https://twitter.com/Shubham15022000)
 * Github  <!-- Links -->
 [@ShubhamPathak]( https://github.com/ShubhamPatha)
 <!-- Headings -->   
